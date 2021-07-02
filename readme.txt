@@ -1,1 +1,1 @@
-hahahaha,maoyan Git has a mutable index called stage.
+hahahaha,maoyan Git has a mutable index called stage.   Git tracks changes.
